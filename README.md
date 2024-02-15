@@ -1,6 +1,5 @@
 # HTTP Server
 
-This directory contains source code and other files for Assignment 2.
 
 # Description
 httpserver.c is a simple implementation of an http server that can process get and put requests sent \
