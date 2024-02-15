@@ -21,7 +21,7 @@ $ printf "GET /file.txt HTTP/1.1\r\n\r\n" | nc -N localhost 1234 \
 this will run a get command provided that the server is running on port 1234.
 
 # Command Format
-Commands are formatted as: (command) /(uri) HTTP/1.1\r\n(optional header fields)\r\n\r\n(optional message body) \
+Commands are formatted as: (command) /(uri) HTTP/1.1\r\n(optional header fields)\r\n\r\n(optional message body)
 
 ## GET commands.
 A get command simply reads the file from the provided uri and prints its contents in the response message. A valid GET request (given the file file.txt exists) can look like : \
