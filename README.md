@@ -5,7 +5,8 @@ This directory contains source code and other files for Assignment 2.
 # Description
 httpserver.c is a simple implementation of an http server that can process get and put requests sent \
 by a client. httpserver.c makes use of socket functionality within the asgn2_helper_funcs.a file \
-these functions are described in the asgn2_helper_funcs.h file. Both of these files were provided by \Professor Kerry Veenstra and written by his TA Andrew Quinn while in the class CSE130 at UC Santa Cruz.
+these functions are described in the asgn2_helper_funcs.h file. Both of these files were provided by \
+Professor Kerry Veenstra and written by his TA Andrew Quinn while in the class CSE130 at UC Santa Cruz.
 
 
 # Compiling
